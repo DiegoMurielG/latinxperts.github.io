@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https:/latinxperts.github.io"
-title = "LatinXperts 🍍"
+baseURL = "https://diegomurielg.github.io/latinxperts.github.io/"
+title = "LatinXperts 🍍 | DMG"
 theme = "bookworm-light"
 # post pagination
 paginate = "5"
@@ -131,15 +131,15 @@ weight = 2
 # Social Icons
 [[params.social]]
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-url = "https://www.facebook.com/visualpartnership"
+url = "https://www.facebook.com/profile.php?id=100013201442254"
 
 [[params.social]]
 icon = "lab la-twitter" # https://icons8.com/line-awesome
-url = "https://www.twitter.com/visual_partner"
+url = "https://twitter.com/DnatorMurgo"
 
 [[params.social]]
 icon = "lab la-instagram" # https://icons8.com/line-awesome
-url = "https://www.instagram.com/visual_partner"
+url = "https://www.instagram.com/diegomureilgonzalez/"
 
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
